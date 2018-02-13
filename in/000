@@ -1,0 +1,7 @@
+---
+seed_a = 2
+seed_b = 3
+seed_c = 1987
+seed_d = 1990
+max_in_memory_bytes = 45
+max_disk_bytes = 8776
